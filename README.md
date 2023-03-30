@@ -1,8 +1,8 @@
-### **Hey there, I'm Justin;**
-A first-year Computer Science student // aspiring software engineer in Metro Atlanta.
+### **⟪ Hey there, I'm Justin; ⟫**
+⇶ A first-year Computer Science student // aspiring software engineer in Metro Atlanta.
 
 ---
-I primarily write in C++ and Python, but am undertaking Associate Android Developer certification to expand my knowledge with Kotiln.
+I primarily write in C++ and Python, but am completing an Android Deveoper certification program to expand my knowledge with Kotiln.
 
 With an ever-growing idea log and rapidly developing technology to back up my wildest ambitions, I'm beyond excited to see where the next few years take me in the field. In the meantime, I plan to resume development on my Discord bot, GlitchBot, and begin work on a mobile app I've been tossing around for a while.
 
@@ -10,7 +10,7 @@ When I'm not developing, I'm dabbling in a variety of art forms like music produ
 
 ---
 
-**Interested in more? Check out my socials below:**
+**⤋ Interested in more? Check out my socials below: ⤋**
 
 * Twitter: [@justinquinnb](https://twitter.com/justinquinnb)<br>
 * Instagram: [@justinquinnb](https://instagram.com/justinquinnb)<br>
