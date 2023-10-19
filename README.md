@@ -2,7 +2,7 @@
 ⇶ A first-year Computer Science student // aspiring software engineer in Metro Atlanta.
 
 ---
-I primarily write in C++ and Python, but am completing an Android Deveoper certification program to expand my knowledge with Kotiln.
+I primarily write in Java and Kotlin, but have experience with C++ and Python too.
 
 With an ever-growing idea log and rapidly developing technology to back up my wildest ambitions, I'm beyond excited to see where the next few years take me in the field. In the meantime, I plan to resume development on my Discord bot, GlitchBot, and begin work on a mobile app I've been tossing around for a while.
 
