@@ -1,5 +1,5 @@
-### **⟪ Hey there, I'm Justin; ⟫**
-⇶ A first-year Computer Science student // aspiring software engineer in Metro Atlanta.
+### **Hey there, I'm Justin;**
+A first-year Computer Science student // aspiring software engineer in Metro Atlanta.
 
 ---
 I primarily write in Java and Kotlin, but have experience with C++ and Python too.
