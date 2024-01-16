@@ -1,5 +1,5 @@
 ### **👋 Hey there, I'm Justin;**
-A first-year Computer Science student @ UGA // aspiring software engineer in Metro Atlanta.
+A first-year Computer Science student at UGA // aspiring software engineer in Metro Atlanta.
 
 ---
 
