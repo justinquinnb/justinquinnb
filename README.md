@@ -2,7 +2,10 @@
 A Computer Science student at UGA // aspiring software engineer in Metro Atlanta.
 
 ---
+### Not just a developer...
+I have my fair share of technical know-how, but I'm not *just* a developer typing away at my RGB keyboard each day. Outside of programming, I'm the founding president of UGA's largest tech club on campus, [DevDogs @ UGA](https://linktr.ee/devdogs), and its affiliate [Google Developer Groups on Campus: UGA](https://gdg.community.dev/gdg-on-campus-university-of-georgia-athens-united-states/)--you should check them out! With entrepreneurship courses and skills accruing each year, I also eagerly await the opportunity to forge my own path in the business world too, building software with an impact on the global stage.
 
+### But... I am a software developer at heart! 🧑‍💻
 I primarily write in Java and Kotlin, but have experience with C++ and Python too.
 
 With an ever-growing idea log and rapidly developing technology to back up my wildest ambitions, I'm beyond excited to see where the next few years take me in the field. In the meantime, I'm leading and building some exciting new projects with DevDogs (a club I've founded) and beginning to work on a mobile app idea I've been tossing around for a while.
