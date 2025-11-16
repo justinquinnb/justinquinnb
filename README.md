@@ -1,14 +1,14 @@
-### **👋 Hey there, I'm Justin;**
+### **👋 Hey! I'm Justin;**
 A developer, innovator, and leader at the University of Georgia.
 
 ---
 ### Not just a developer...
 I have my fair share of technical know-how, but I'm not *just* a developer typing away at my RGB keyboard each day. Outside of programming, I was the founding president of UGA's largest tech club, [DevDogs @ UGA](https://linktr.ee/devdogs), and its affiliate [Google Developer Groups on Campus: UGA](https://gdg.community.dev/gdg-on-campus-university-of-georgia-athens-united-states/)--you should check them out! With entrepreneurship courses and skills accruing each year, I also eagerly await the opportunity to forge my own path in the business world, building software with impact on the global stage.
 
-### But... I am a software developer at heart! 🧑‍💻
+### But, I am a software developer at heart! 🧑‍💻
 I primarily write in Java and Python, but have experience with Kotlin, C, and C++ too.
 
-With an ever-growing idea log and rapidly developing technology to back up my wildest ambitions, I'm beyond excited to see where the next few years take me in the field. In the meantime, I've pioneered the development of UGA's largest tech organization, DevDogs, and begun work on a mobile app idea I've been tossing around for a while.
+With an ever-growing idea log and rapidly developing technology to back up my wildest ambitions, I'm beyond excited to see where the next few years take me in the field. In the meantime, I've pioneered the development of UGA's largest tech organization, DevDogs, and begun work on a number of software concepts I've been tossing around for a while.
 
 When I'm not developing, I'm dabbling in a variety of art forms like music production, graphic design, and photography, all of which can be found on [my website](https://www.justinquinnb.com).
 
