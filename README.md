@@ -3,7 +3,7 @@ A developer, innovator, and leader building software with purpose at the Univers
 
 ---
 ### Not just a developer...
-I have my fair share of technical know-how, but I'm not *just* a developer typing away at an RGB keyboard each day. Outside of programming, I was the founding president of UGA's largest tech club, [DevDogs @ UGA](https://linktr.ee/devdogs), and its affiliate [Google Developer Groups on Campus: UGA](https://gdg.community.dev/gdg-on-campus-university-of-georgia-athens-united-states/)--you should check them out! With entrepreneurship courses completed and an MBA starting next year, I also eagerly await the opportunity to forge my own path in the business world, building software with impact on the global stage.
+I have my fair share of technical know-how, but I'm not *just* a developer typing away at an RGB keyboard each day. Outside of programming, I was the founding president of UGA's largest tech club, [DevDogs @ UGA](https://linktr.ee/devdogs), and its affiliate [Google Developer Groups on Campus: UGA](https://gdg.community.dev/gdg-on-campus-university-of-georgia-athens-united-states/)--you should check them out! With entrepreneurship courses completed and an MBA in progress, I also eagerly await the opportunity to forge my own path in the business world, building software with impact on the global stage.
 
 ### But, I am a software developer at heart! 🧑‍💻
 I primarily write in Java, Python, and TypeScript, but have experience with Kotlin, C, and C++ too.
